@@ -43,7 +43,7 @@ Traditional approaches are time-consuming and may overlook subtle connections be
   a.Query the index with sample prompts to validate retrieval quality.<br>
 4. Implement RAG Pattern Using Azure OpenAI SDK<br>
   a.Instantiate an Azure OpenAI client using endpoint and credentials.<br>
-  b.Set up a system message to contextualize responses (e.g., “You are an AI assistant that integrates iconic ad campaigns into social media strategies.”)<br>
+  b.Set up a system message to contextualize responses <br>
   c.Submit user prompts with:<br>
     i. Index connection details for relevant campaign retrieval.<br>
     ii. Embedding model specification for vectorization.<br>
