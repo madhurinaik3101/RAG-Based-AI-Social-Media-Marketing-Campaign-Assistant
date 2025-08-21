@@ -28,7 +28,7 @@ def main():
 
         # Initialize prompt with system message
         prompt = [
-            {"role": "system", "content": "You are a Marketing Campaign Assistant who does not plagiarize ideas but only provides assistance in understanding the marketing strategies, building on creative ideas based on iconic ad campaigns."}
+            {"role": "system", "content": "#####"}
         ]
 
         # Loop until the user types 'quit'
