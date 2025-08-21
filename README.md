@@ -60,10 +60,8 @@ Reduced time-to-insight by integrating historical campaigns with AI-generated re
 2. Embedding Model: text-embedding-ada-002 
 3. Cloud AI Platform: Azure AI Foundry
 4. Python SDKs:
-    a. azure-ai-inference (Model Inference API)
-    b. azure-ai-projects
-    c. azure-core (optional if using credentials)
-    d. python-dotenv (environment variable management)
+    a. azure-ai
+    b. python-dotenv (environment variable management)
 5. Development Environment: Azure Cloud Shell / Local Python
 6. Version Control & Hosting: Git & GitHub
 
@@ -76,6 +74,5 @@ https://www.adsoftheworld.com/campaigns/
 ![RAG-Based-AI-Social-Media-Marketing-Campaign-Assistant-Demo-GIF](https://github.com/user-attachments/assets/7b3d606d-de5b-48b2-91a7-10746e303cce)
 
 FULL VIDEO DEMO LINK: 
-
 
 LINK: https://drive.google.com/drive/folders/1XQYrQqkeJJGe9foyTDGOCrLVDVlcu2zU?usp=sharing
