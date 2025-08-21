@@ -68,6 +68,7 @@ Reduced time-to-insight by integrating historical campaigns with AI-generated re
 ##References
 
 https://www.adsoftheworld.com/campaigns/
+Microsoft Learn
 
 ## Demo
 
